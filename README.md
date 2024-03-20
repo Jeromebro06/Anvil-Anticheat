@@ -1,6 +1,5 @@
-[Homepage](https://anvilac.eu) -|- [Panel](https://anvilac.eu/panel) -|- [Join our Discord](https://discord.gg/anvilac)
-
 # **Anvil-Anticheat**
+[Homepage](https://anvilac.eu) -|- [Panel](https://anvilac.eu/panel) -|- [Join our Discord](https://discord.gg/anvilac)
 
 # Trigger Security
 ```
