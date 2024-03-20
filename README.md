@@ -1,11 +1,8 @@
-# Anvil-Anticheat
-Anvil Anticheat
+[Homepage](https://anvilac.eu) -|- [Panel](https://anvilac.eu/panel) -|- [Join our Discord](https://discord.gg/anvilac)
 
-## Useful Links
-- https://discord.gg/anvilac
-- https://anvilac.eu
+# **Anvil-Anticheat**
 
-## Trigger Security
+# Trigger Security
 ```
 - 💥 Anti Blacklist Trigger
 - 💥 Anti Trigger Client Event
@@ -17,7 +14,7 @@ Anvil Anticheat
 - 💥 Anti Exploit
 ```
 
-## Executor Detections
+# Executor Detections
 ```
 - 💻 Anti Eulen
 - 💻 Anti HX
@@ -30,7 +27,7 @@ Anvil Anticheat
 - 💻 Cheat AI (same like fg lol)
 ```
 
-## Panel
+# Panel
 ```
 - 🌐Web Panel
 - 🌐Online Config
@@ -38,12 +35,14 @@ Anvil Anticheat
 - 🌐Online bypass
 - 🌐Ingame and Panel Admin Menu
 ```
-
-## Panel
 ![grafik](https://github.com/Jeromebro06/Anvil-Anticheat/assets/127216397/6d46341f-9ab9-4c58-98b0-33b346754d2b)
 
-## Info
+# Info
 ```
-- We update every time
-- We give our best to give the maximum protection
+📌 We update every time
+📌 We give our best to give the maximum protection
+📌 You can update your configuration without restarting the server
+📌 You can bypass members without restarting the server
+📌 Anvil Anticheat has fast and helpful support
+📌 Anvil Anticheat is compatible with every servers
 ```
