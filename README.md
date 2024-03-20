@@ -4,7 +4,6 @@ Anvil Anticheat
 ## https://discord.gg/anvilac
 ## https://anvilac.eu
 
-```
 Normal Stuff
 ✔️Anti Noclip
 ✔️Anti Freecam
@@ -95,4 +94,3 @@ Panel
 🌐Online Admin menu (in work)
 🌐Panel Webhook saver
 🌐Online statics
-```
