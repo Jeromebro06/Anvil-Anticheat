@@ -2,8 +2,8 @@
 Anvil Anticheat
 
 ## Useful Links
-https://discord.gg/anvilac
-https://anvilac.eu
+- https://discord.gg/anvilac
+- https://anvilac.eu
 
 ## Trigger Security
 ```
