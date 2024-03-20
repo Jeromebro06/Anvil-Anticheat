@@ -1,10 +1,12 @@
 # Anvil-Anticheat
 Anvil Anticheat
 
-## https://discord.gg/anvilac
-## https://anvilac.eu
+## Useful Links
+https://discord.gg/anvilac
+https://anvilac.eu
 
 ## Trigger Security
+```
 - 💥 Anti Blacklist Trigger
 - 💥 Anti Trigger Client Event
 - 💥 Anti Trigger Server Event
@@ -13,8 +15,10 @@ Anvil Anticheat
 - 💥 Anti All Player Events
 - 💥 Anti -1 Trigger (handcuff all, carry all, more...)
 - 💥 Anti Exploit
+```
 
 ## Executor Detections
+```
 - 💻 Anti Eulen
 - 💻 Anti HX
 - 💻 Anti TZ
@@ -24,12 +28,22 @@ Anvil Anticheat
 - 💻 Anti Free Executors
 - 💻 Anti Internal / External Executor
 - 💻 Cheat AI (same like fg lol)
+```
 
 ## Panel
+```
 - 🌐Web Panel
 - 🌐Online Config
 - 🌐Online Banlist
 - 🌐Online bypass
 - 🌐Ingame and Panel Admin Menu
+```
 
-![grafik](https://github.com/Jeromebro06/Anvil-Anticheat/assets/127216397/22ff7fa5-8683-4dac-89e3-74d929989088)
+## Panel
+![grafik](https://github.com/Jeromebro06/Anvil-Anticheat/assets/127216397/6d46341f-9ab9-4c58-98b0-33b346754d2b)
+
+## Info
+```
+- We update every time
+- We give our best to give the maximum protection
+```
