@@ -1,11 +1,9 @@
 # **Anvil-Anticheat**
-[Homepage](https://anvilac.eu) -|- [Panel](https://anvilac.eu/panel) -|- [Join our Discord](https://discord.gg/anvilac)
+[Homepage](https://anvilac.com) -|- [Panel](https://anvilac.com/panel) -|- [Join our Discord](https://discord.gg/anvilac)
 
 # Trigger Security
 ```
 - 💥 Anti Blacklist Trigger
-- 💥 Anti Trigger Client Event
-- 💥 Anti Trigger Server Event
 - 💥 Secured Events (client)
 - 💥 Max Valued Events
 - 💥 Anti All Player Events
