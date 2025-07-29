@@ -32,7 +32,7 @@
 - 🌐Online bypass
 - 🌐Ingame and Panel Admin Menu
 ```
-![grafik](https://github.com/Jeromebro06/Anvil-Anticheat/assets/127216397/6d46341f-9ab9-4c58-98b0-33b346754d2b)
+<img width="1888" height="959" alt="{50FAA471-18FA-458D-B515-79968E266564}" src="https://github.com/user-attachments/assets/fdf2d676-9781-487c-9c81-8a38718a0b0f" />
 
 # Info
 ```
