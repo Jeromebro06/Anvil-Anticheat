@@ -4,24 +4,15 @@
 # Trigger Security
 ```
 - 💥 Anti Blacklist Trigger
-- 💥 Secured Events (client)
-- 💥 Max Valued Events
-- 💥 Anti All Player Events
+- 💥 Secured Events (client + server)
 - 💥 Anti -1 Trigger (handcuff all, carry all, more...)
 - 💥 Anti Exploit
 ```
 
 # Executor Detections
 ```
-- 💻 Anti Eulen
-- 💻 Anti HX
-- 💻 Anti TZ
-- 💻 Anti Red Engine
-- 💻 Anti Skript.gg (semi)
-- 💻 Anti Nexus/Lumia (injection)
-- 💻 Anti Free Executors
 - 💻 Anti Internal / External Executor
-- 💻 Cheat AI (same like fg lol)
+- 💻 Cheat AI
 ```
 
 # Panel
